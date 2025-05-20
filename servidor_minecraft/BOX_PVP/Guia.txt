@@ -1,0 +1,43 @@
+▛▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▜
+██████╗░░█████╗░██╗░░██╗  ██████╗░██╗░░░██╗██████╗░
+██╔══██╗██╔══██╗╚██╗██╔╝  ██╔══██╗██║░░░██║██╔══██╗
+██████╦╝██║░░██║░╚███╔╝░  ██████╔╝╚██╗░██╔╝██████╔╝
+██╔══██╗██║░░██║░██╔██╗░  ██╔═══╝░░╚████╔╝░██╔═══╝░
+██████╦╝╚█████╔╝██╔╝╚██╗  ██║░░░░░░░╚██╔╝░░██║░░░░░
+╚═════╝░░╚════╝░╚═╝░░╚═╝  ╚═╝░░░░░░░░╚═╝░░░╚═╝░░░░░
+▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚
+BOX PVP
+
+Fue construido para la versión 1.12.2
+
+Mundo Guardado como (BOX PVP)
+
+Screenshots del BOX PVP en su respectiva carpeta
+▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚
+
+░█████╗░██╗░░░██╗██╗░░░██╗██████╗░░█████╗░
+██╔══██╗╚██╗░██╔╝██║░░░██║██╔══██╗██╔══██╗
+███████║░╚████╔╝░██║░░░██║██║░░██║███████║
+██╔══██║░░╚██╔╝░░██║░░░██║██║░░██║██╔══██║
+██║░░██║░░░██║░░░╚██████╔╝██████╔╝██║░░██║
+╚═╝░░╚═╝░░░╚═╝░░░░╚═════╝░╚═════╝░╚═╝░░╚═╝
+▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚
+Recomiendo los siguientes plugins:
+▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚
+	-(fawe)(https://intellectualsites.github.io/download/fawe.html) para pegar el schematic.
+	-(voidgen)(https://www.spigotmc.org/resources/voidgen.25391/) para crear mundos vacíos: comando (/mv create Lobby NORMAL -g VoidGen -t FLAT).
+	-(multiverse core)(https://dev.bukkit.org/projects/multiverse-core) Complemento necesario de voidgen.
+▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚
+Si el mundo no carga abrirlo en un solo jugador en la versión que lo vayan a poner y luego pegarlo en el server.
+
+En la carpeta mapas está el mismo mapa por separado en las 2 versiones 1.12.2 
+
+Si no sabe cómo pegar un shcematic contactarse en Discord con (anthonylol12#7959)
+
+El lobby fue construido por: anthonylol12
+
+Para más mapas personalizados 
+
+Gracias <3
+▙▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▚▟
+

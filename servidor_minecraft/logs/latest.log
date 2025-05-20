@@ -44,3 +44,8 @@
 [17:11:13] [Server thread/INFO]: Made BeniGamer24 a server operator
 [17:13:17] [Server thread/INFO]: BeniGamer24 issued server command: /gamemode creative
 [17:13:17] [Server thread/INFO]: [BeniGamer24: Set own game mode to Creative Mode]
+[17:20:45] [Server thread/INFO]: BeniGamer24 lost connection: Disconnected
+[17:20:45] [Server thread/INFO]: BeniGamer24 left the game
+[17:25:38] [User Authenticator #1/INFO]: UUID of player BeniGamer24 is d55d0cec-356e-3692-9f7c-ec1866b9d594
+[17:25:39] [Server thread/INFO]: BeniGamer24 joined the game
+[17:25:39] [Server thread/INFO]: BeniGamer24[/127.26.125.248:51117] logged in with entity id 2721 at ([world]-38.26044255993663, 73.80868704277303, -8.941897596902285)
