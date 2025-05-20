@@ -41,3 +41,6 @@
 [17:00:47] [Server thread/INFO]: BeniGamer24 joined the game
 [17:00:47] [Server thread/INFO]: BeniGamer24[/127.26.125.248:49577] logged in with entity id 26 at ([world]-8.5, 69.0, -4.5)
 [17:08:34] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[17:11:13] [Server thread/INFO]: Made BeniGamer24 a server operator
+[17:13:17] [Server thread/INFO]: BeniGamer24 issued server command: /gamemode creative
+[17:13:17] [Server thread/INFO]: [BeniGamer24: Set own game mode to Creative Mode]
